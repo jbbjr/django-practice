@@ -1,0 +1,8 @@
+# python version
+python=3.13.0
+
+# Django and dot-env
+asgiref==3.8.1
+Django==5.1.4
+python-dotenv==1.0.1
+sqlparse==0.5.3
